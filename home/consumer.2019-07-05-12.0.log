@@ -1,0 +1,36 @@
+2019-07-05 12:14:13.949 [main] INFO  com.example.gradleDemo.redis.RedisTest - Starting RedisTest on SST-OCHO with PID 5136 (started by yxie in C:\MrX\springbootDemo\second\gradleDemo)
+2019-07-05 12:14:13.950 [main] INFO  com.example.gradleDemo.redis.RedisTest - The following profiles are active: dev
+2019-07-05 12:14:14.746 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 12:14:14.751 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 12:14:14.791 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-07-05 12:14:15.253 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$be81004] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 12:14:16.926 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 12:14:17.177 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-07-05 12:14:17.599 [main] INFO  com.example.gradleDemo.redis.RedisTest - Started RedisTest in 4.211 seconds (JVM running for 6.062)
+2019-07-05 12:14:17.996 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 12:14:17.998 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 12:14:18.466 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 12:15:53.775 [main] INFO  com.example.gradleDemo.redis.RedisTest - Starting RedisTest on SST-OCHO with PID 7800 (started by yxie in C:\MrX\springbootDemo\second\gradleDemo)
+2019-07-05 12:15:53.777 [main] INFO  com.example.gradleDemo.redis.RedisTest - The following profiles are active: dev
+2019-07-05 12:15:54.519 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 12:15:54.524 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 12:15:54.559 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2019-07-05 12:15:54.999 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ec434066] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 12:15:56.554 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 12:15:56.826 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-07-05 12:15:57.277 [main] INFO  com.example.gradleDemo.redis.RedisTest - Started RedisTest in 4.128 seconds (JVM running for 5.325)
+2019-07-05 12:15:57.620 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 12:15:57.623 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 12:15:58.173 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 12:17:09.071 [main] INFO  com.example.gradleDemo.redis.RedisTest - Starting RedisTest on SST-OCHO with PID 1148 (started by yxie in C:\MrX\springbootDemo\second\gradleDemo)
+2019-07-05 12:17:09.072 [main] INFO  com.example.gradleDemo.redis.RedisTest - The following profiles are active: dev
+2019-07-05 12:17:09.802 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-07-05 12:17:09.807 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-07-05 12:17:09.846 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 repository interfaces.
+2019-07-05 12:17:10.295 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3ad8b554] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-07-05 12:17:11.891 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 12:17:12.166 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-07-05 12:17:12.599 [main] INFO  com.example.gradleDemo.redis.RedisTest - Started RedisTest in 4.126 seconds (JVM running for 5.305)
+2019-07-05 12:17:12.972 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2019-07-05 12:17:12.975 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2019-07-05 12:17:13.472 [Thread-2] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
